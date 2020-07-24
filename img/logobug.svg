@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="248px" viewBox="0 0 301 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logobug</title>
+    <defs>
+        <linearGradient x1="0%" y1="33.9078725%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#D400FF" offset="0%"></stop>
+            <stop stop-color="#9453CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="81.2661979%" y1="-4.13600349%" x2="58.0354446%" y2="59.7698184%" id="linearGradient-2">
+            <stop stop-color="#D6DE23" offset="0%"></stop>
+            <stop stop-color="#00D4BA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-4.000000, -4.000000)" fill-rule="nonzero">
+            <g id="Asset-1">
+                <path d="M214.643478,101.2 L135.26087,30.9706897 C102.967048,2.66246286 53.5258918,5.1912493 24.3913043,36.6413793 C10.5064119,51.9096412 3.35950133,71.9794964 4.52396589,92.4325635 C5.68843045,112.885631 15.0688055,132.045133 30.6,145.693103 L53.2173913,165.758621 L214.643478,101.2 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <polygon id="Path" fill="#231F20" opacity="0.29" points="53.6608696 165.758621 96.6782609 203.708621 104.217391 210.251724 215.086957 101.2 130.382609 26.1724138"></polygon>
+                <path d="M283.382609,29.2258621 L278.504348,24.4275862 L277.617391,23.5551724 C245.382292,-4.4329828 196.205335,-1.50733918 167.634783,30.0982759 L51.4434783,164.45 L143.243478,244.712069 C148.940152,249.761063 156.447307,252.369412 164.104215,251.960099 C171.761122,251.550786 178.936667,248.157548 184.043478,242.531034 L286.043478,130.425862 C312.127016,101.173069 310.968547,57.1134093 283.382609,29.2258621 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
